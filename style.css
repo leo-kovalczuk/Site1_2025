@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=Rock+Salt&display=swap');
 
-.cabecalho{
+.cabecalho {
     background-color: #087300;
     width: 100%;
 }
-.topicos{
+.topicos {
     color: #1ac50e;
     font-size: 24px;
 }
-.titulo{
+.titulo {
     color: #1ac50e;
     font-size: 32px;
-    font-family: Rock Salt;
+    font-family:Big Shoulders Stencil;
 }
