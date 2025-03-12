@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+.cabecalho{
+    background-color: #087300;
+    width: 100%;
+}
+.topicos{
+    color: #1ac50e;
+    font-size: 24px;
+}
+.titulo{
+    color: #1ac50e;
+    font-size: 32px;
+    font-family: Rock Salt;
+}
