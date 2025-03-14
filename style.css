@@ -21,8 +21,12 @@
     font-family:Big Shoulders Stencil;
     font-size: 28px;
     color: #2f00bd;
-    text-align: center;
 }
 .texto-inicial{
     font-size: 24px;
+    color: #2f00bd;
+}
+.texto-fonte{
+    font-size: 18px;
+    color: #2f00bd;
 }
