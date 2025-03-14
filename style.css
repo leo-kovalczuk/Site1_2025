@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=Rock+Salt&display=swap');
 :root{
-    background-color: #490081;
+    background-color: #0d1071;
 }
 .cabecalho {
-    background-color: #007ccf;
+   
     width: 100%;
 }
 .botao {
-    color: #2f00bd;
+    color: #3c05e1;
     font-size: 24px;
 }
 .titulo {
-    color: #2f00bd;
+    color: #0768f1;
     font-size: 48px;
     font-family:Big Shoulders Stencil;
     text-align: center;
@@ -20,13 +20,13 @@
 .h2{
     font-family:Big Shoulders Stencil;
     font-size: 28px;
-    color: #10bd00;
+    color: #0d1071;
 }
 .texto-inicial{
     font-size: 24px;
-    color: #2f00bd;
+    color: #0d1071;
 }
 .texto-fonte{
     font-size: 18px;
-    color: #2f00bd;
+    color: #0d1071;
 }
