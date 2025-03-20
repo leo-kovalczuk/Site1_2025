@@ -34,5 +34,5 @@
 }
 .primeira-linha {
     display: grid;
-
+    grid-column: 33%, 33%, 33%;
 }
