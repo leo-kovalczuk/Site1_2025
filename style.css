@@ -37,6 +37,8 @@
 }
 .foto{
     width: 33%;
+    border-radius: 10px;
+    height: 500px;
 }
 .topicos {
     text-decoration: none ;
