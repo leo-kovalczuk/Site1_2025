@@ -42,6 +42,8 @@
 }
 .topicos {
     text-decoration: none ;
+    list-style-type: none;
+    display: flex;
 }
 .fotos{
     width: 550px;
@@ -52,4 +54,9 @@
 .texto{
    font-size: 25px;
    color: whitesmoke;
+   }
+   .ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
    }
