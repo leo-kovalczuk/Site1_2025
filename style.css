@@ -44,9 +44,10 @@
     text-decoration: none ;
 }
 .fotos{
-    width: 45%;
+    width: 550px;
     border-radius: 12px;
     height: 400px;
+    display: inline-block;
 }
 .texto{
    font-size: 25px;
