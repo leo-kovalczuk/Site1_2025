@@ -45,6 +45,8 @@
 }
 .fotos{
     width: 45%;
+    border-radius: 12px;
+    height: 500px;
 }
 .texto{
    font-size: 25px;
