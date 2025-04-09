@@ -60,3 +60,7 @@
     list-style-type: none;
     display: flex;
    }
+   .itens{
+    display: flex;
+    align-items: center;
+   }
