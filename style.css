@@ -2,6 +2,7 @@
 .pag-12{
     background-image: url(./imagem\ fundo.jpg);
     width: 100%;
+    backface-visibility: visible;
 }
 .pag-3{
     background-image: url(./pexels-simon73-1183099.jpg);
