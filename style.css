@@ -11,11 +11,11 @@
     width: 100%;
 }
 .topicos {
-    color: #3c05e1;
+    color: #0547e1;
     font-size: 24px;
 }
 .titulo {
-    color: #0768f1;
+    color: #0aacf8;
     font-size: 48px;
     font-family:Big Shoulders Stencil;
     text-align: center;
@@ -25,7 +25,7 @@
 .subtitulo {
     font-family:Big Shoulders Stencil;
     font-size: 32px;
-    color: #000041;
+    color: #0048ff;
     text-align: center;
 }
 .texto-inicial { 
@@ -35,7 +35,7 @@
 }
 .texto-fonte {
     font-size: 21px;
-    color: #000072;
+    color: #05059d;
 }
 .foto{
     width: 33%;
