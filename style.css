@@ -13,6 +13,9 @@
 .topicos {
     color: #1c5cff;
     font-size: 24px;
+    text-decoration: none ;
+    list-style-type: none;
+    display: flex;
 }
 .titulo {
     color: #0aacf8;
@@ -42,11 +45,6 @@
     border-radius: 10px;
     height: 400px;
 }
-.topicos {
-    text-decoration: none ;
-    list-style-type: none;
-    display: flex;
-}
 .fotos{
     width: 550px;
     border-radius: 12px;
@@ -69,7 +67,7 @@
    .botao-link{
     text-decoration: none;
     display: flex;
-    color: #0d1071;
+    color: #0008ff;
     font-size: 24px;
     padding-left: 2em;
     padding-right: 2em;
